@@ -1,0 +1,25 @@
+There is only one .py file in my submission to run this 
+type python3 DNS.py in terminal
+and give input value for k
+input filename you have to give the filename (if the file is input.txt the input will be input.txt)
+and enter the command and the out will be shown and writen in respective files as given in question and it will run 
+till bye is given as command
+
+for make file 
+
+just type make and follow the folllowing steps
+
+1 enter the input value for k
+2 enter input filename you have to give the filename (if the file is input.txt the input will be input.txt)
+3 enter the command and the out will be shown and writen in respective files as given in question 
+4 it will run till bye is given as command
+
+
+for scriptfile
+alredy a script file is given 
+follow the commands
+1  script scriptfile
+run the code as shown and it will recorded in scriptfile
+2  exit
+
+the scriptfileis succesfully created

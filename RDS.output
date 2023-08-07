@@ -1,0 +1,6 @@
+query: www.bank.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
+query: smtp.bank.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
+query: sshd1.bank.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
+query: ftp.bank.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
+query: www.shop.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
+query: www.store.com/127.0.0.1/12411 response sent: 127.0.0.1 12409
